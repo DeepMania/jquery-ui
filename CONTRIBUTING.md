@@ -8,7 +8,7 @@ You can find us on [IRC](http://irc.jquery.org), specifically in #jqueryui-dev s
 
 ## Getting Involved
 
-There are a number of ways to get involved with the development of jQuery UI. Even if you've never contributed code to an Open Source project before, we're always looking for help identifying bugs, writing and reducing test cases and documentation.
+There are a number of ways to get involved with the development of jQuery UI. Even if you've never contributed code to an Open Source project before, we're always looking for help identifying bugs, writing and reducing test cases and documentation, so join.
 
 This is the best way to contribute to jQuery UI. Please read through the full guide detailing [How to Report Bugs](http://contribute.jquery.org/bug-reports/).
 
